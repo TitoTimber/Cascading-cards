@@ -1,2 +1,2 @@
 # Cascading-cards
-simple front end project
+Simple front end project, utilizing the basics of HTML, CSS, JS.
